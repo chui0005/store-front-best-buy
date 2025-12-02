@@ -119,21 +119,7 @@ body {
   padding: 0 1.5rem 3rem;
 }
 
-/* Footer bar in Best Buy blue */
-footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: #0046be; /* Best Buy primary blue */
-  color: #ffffff;
-  padding: 0.75rem 1.5rem;
-  margin: 0;
-  font-size: 0.9rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+
 
 /* Top navigation base (TopNav.vue will provide structure, this styles it) */
 nav {
