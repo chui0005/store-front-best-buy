@@ -4,6 +4,7 @@ This is a Vue.js app that simulates a store front. It is meant to be used in con
 
 ## Running the app locally
 
+
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/en/download/)
